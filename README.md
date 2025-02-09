@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashcogell
 - 👀 I’m interested in data visualization and analysis that improves the world around us.
-- 🌱 I’m currently learning python and swift.
+- 🌱 I’m currently learning react.
 - 💞️ I’m looking to collaborate on aggregating food allergy information.
 - 📫 How to reach me ...
 
